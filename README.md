@@ -1,5 +1,5 @@
 # Industrial-Parameter-Server
-a repository for Industrial Parameter Server Collection
+【1】X-deeplearning/ps-plus
 
 
 
@@ -16,10 +16,7 @@ a repository for Industrial Parameter Server Collection
 
 ## Models
 
-[1]deepFM
-
-[2]wide&deep
-
-[3]MMOE
-
-[4]DSSM
+【1】deepFM
+【2】wide&deep
+【3】MMOE
+【4】DSSM
